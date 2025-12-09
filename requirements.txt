@@ -1,0 +1,2 @@
+3. Ensure files are in place (move `llm_client.py` into `src/engines/` if necessary).
+4. Run (LLM enabled):
