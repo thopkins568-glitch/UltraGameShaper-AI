@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# Dotenv
+.env
+
+# system
+.DS_Store
+Thumbs.db
+
+# outputs
+src/outputs/
+*.log
